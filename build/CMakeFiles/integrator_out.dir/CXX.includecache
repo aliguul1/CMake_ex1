@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functionOfFunctions.cpp
+functionOfFunctions.hpp
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functionOfFunctions.hpp
+
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functionOfFunctions.hpp
+vector
+-
+
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functions.cpp
+functionOfFunctions.hpp
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functionOfFunctions.hpp
+
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functions.hpp
+vector
+-
+
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/main.cpp
+functions.hpp
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/src/functions.hpp
+vector
+-
+iostream
+-
+

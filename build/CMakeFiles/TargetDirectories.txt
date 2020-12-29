@@ -1,0 +1,3 @@
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/build/CMakeFiles/rebuild_cache.dir
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/build/CMakeFiles/edit_cache.dir
+/home/aliguul/myFiles/exercises/ex1/CMake_ex1/build/CMakeFiles/integrator_out.dir
